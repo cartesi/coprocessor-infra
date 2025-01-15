@@ -2,6 +2,6 @@
   "name": "Cartesi Coprocessor WG",
   "website": "https://cartesi.io",
   "description": "Development operator, run by Carsten",
-  "logo": "",
+  "logo": "https://raw.githubusercontent.com/zippiehq/cartesi-coprocessor-infra/refs/heads/master/logo.png",
   "twitter": "https://x.com/cartesiproject"
 }
