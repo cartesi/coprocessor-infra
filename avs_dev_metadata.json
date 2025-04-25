@@ -2,6 +2,6 @@
     "name": "Cartesi Coprocessor Holesky (Dev)",
     "website": "https://www.cartesi.io/",
     "description": "A Linux coprocessor. Development environment, beware of lions - come talk to us on our Discord",
-    "logo": "https://raw.githubusercontent.com/zippiehq/cartesi-coprocessor-infra/refs/heads/master/logo.png",
+    "logo": "https://raw.githubusercontent.com/cartesi/coprocessor-infra/refs/heads/main/logo.png",
     "twitter": "https://x.com/cartesiproject"
 }

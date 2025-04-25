@@ -2,6 +2,6 @@
   "name": "Cartesi Coprocessor WG Test",
   "website": "https://cartesi.io",
   "description": "Testing  operator, run by Carsten",
-  "logo": "https://raw.githubusercontent.com/zippiehq/cartesi-coprocessor-infra/refs/heads/master/logo.png",
+  "logo": "https://raw.githubusercontent.com/cartesi/coprocessor-infra/refs/heads/main/logo.png",
   "twitter": "https://x.com/cartesiproject"
 }

@@ -1,5 +1,5 @@
 {
-    "name": "Cartesi Coprocessor Holesky (Test)",
+    "name": "Cartesi Coprocessor Holesky (Test) v1.2",
     "website": "https://www.cartesi.io/",
     "description": "A Linux coprocessor. Test environment, beware of lions - come talk to us on our Discord",
     "logo": "https://raw.githubusercontent.com/cartesi/coprocessor-infra/refs/heads/main/logo.png",
